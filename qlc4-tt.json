@@ -1,180 +1,716 @@
 {
-"527001_04": "Cả A và B",
-"527002_02": "Lợi nhuận của EVNCPC còn lại sau khi chia lãi cho các thành viên góp vốn liên kết theo quy định của hợp đồng (nếu có); bù đắp cho các khoản lỗ năm trước đã hết thời hạn được trừ vào lợi nhuận trước thuế chỉ được trích hai quỹ khen thưởng và phúc lợi.",
-"527003_01": "Sửa chữa tài sản cố định là việc duy tu, bảo dưỡng, thay thế sửa chữa những hư hỏng phát sinh trong quá trình hoạt động nhằm khôi phục lại năng lực hoạt động theo trạng thái hoạt động tiêu chuẩn ban đầu của tài sản cố định;",
-"527004_02": "Oracle EBS",
-"527005_02": "EVNCPC được huy động vốn để đầu tư vào các lĩnh vực chứng khoán, ngân hàng, bảo hiểm, quỹ đầu tư, bất động sản, tài chính.",
-"527006_04": "Cả 03 nội dung trên",
-"527007_01": "Cuối kỳ kế toán tháng, quý, năm; EVNCPC phải lập các báo cáo tài chính hợp nhất, báo cáo thống kê của EVNCPC theo quy định của pháp luật và của EVN.",
-"527008_04": "Cả 03 câu trên",
-"527009_04": "Câu A và C",
-"527010_01": "Điều kiện trích lập dự phòng nợ phải thu khó đòi phải đảm bảo hai điều kiện sau <br/>(1) Phải có chứng từ gốc chứng minh số tiền đối tượng nợ chưa trả cam kết nợ;<br/>- Bản thanh lý hợp đồng (nếu có);<br/>- Đối chiếu công nợ; Trường hợp không có đối chiếu công nợ thì phải có văn bản đề nghị đối chiếu xác nhận công nợ hoặc văn bản đòi nợ do doanh nghiệp đã gửi (có dấu bưu điện hoặc xác nhận của đơn vị chuyển phát);<br/>- Bảng kê công nợ;<br/>- Các chứng từ khác có liên quan (nếu có). <br/>(2) Có đủ căn cứ xác định là khoản nợ phải thu khó đòi: <br/>- Nợ phải thu đã quá thời hạn thanh toán từ 06 tháng trở lên (tính theo thời hạn trả nợ gốc ban đầu theo hợp đồng kinh tế khế ước vay nợ hoặc các cam kết nợ khác không tính đến thời gian gia hạn trả nợ giữa các bên) doanh nghiệp đã gửi đối chiếu xác nhận nợ hoặc đôn đốc thanh toán nhưng vẫn chưa thu hồi được nợ.<br/>- Đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng đơn vị thu thập được các bằng chứng xác định tổ chức kinh tế đã phá sản đã mở thủ tục phá sản đã bỏ trốn khỏi địa điểm kinh doanh; đối tượng nợ đang bị các cơ quan pháp luật truy tố giam giữ xét xử hoặc đang thi hành án hoặc đang mắc bệnh hiểm nghèo (có xác nhận của bệnh viện) hoặc đã chết hoặc khoản nợ đã được doanh nghiệp yêu cầu thi hành án nhưng không thể thực hiện được do đối tượng nợ bỏ trốn khỏi nơi cư trú; khoản nợ đã được doanh nghiệp khởi kiện đòi nợ nhưng bị đình chỉ giải quyết vụ án thì doanh nghiệp tự dự kiến mức tổn thất không thu hồi được (tối đa bằng giá trị khoản nợ đang theo dõi trên sổ kế toán) để trích lập dự phòng.",
-"527011_04": "Đơn vị thực hiện gửi tiền có kỳ hạn và không kỳ hạn tại các tổ chức tín dụng có tính đảm bảo an toàn gồm các tổ chức tín dụng 100% vốn Nhà nước, các tổ chức tín dụng do Nhà nước nắm cổ phần chi phối. Đối với các tổ chức tín dụng còn lại (ngoài các tổ chức tín dụng nêu trên), đơn vị được duy trì tổng số dư tiền gửi vượt quá tổng số dư nợ tín dụng.",
-"527012_02": "Hình ảnh SCL phải được lưu hồ sơ (file màu trước và sau khi SCL hoàn thành).",
-"527013_04": "Cả 03 câu trên",
-"527014_04": "Tất cả các câu trên.",
-"527015_03": "Trường hợp NLĐ có đơn xin thôi việc, trong quá trình đơn vị giải quyết đơn xin thôi việc NLĐ hoặc TNNLĐ bị mắc bệnh hiểm nghèo thì không được hưởng mức hỗ trợ khám chữa bệnh hiểm nghèo theo Quy định này.",
-"527016_04": "Cả ba trường hợp trên",
-"527017_04": "B và C",
-"527018_03": "Lợi nhuận hoạt động sản xuất khác của đơn vị",
-"527019_04": "Tất cả các câu trên",
-"527020_04": "EVNCPC và các đơn vị trực thuộc EVNCPC",
-"528001_01": "≥ 1.000.000 kWh/năm. ",
-"528002_04": "12 tháng",
-"528003_04": "Bộ Công thương ban hành",
-"528004_04": "Cả A",
-"528005_04": "A và B",
-"528006_01": "Áp dụng giá bán lẻ điện sinh hoạt cho toàn bộ sản lượng điện năng đo đếm được tại công tơ đó",
-"528007_02": "Bậc 3",
-"528008_03": "4 cấp",
-"528009_01": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng",
-"528010_02": "4 mức độ",
-"528011_03": "Là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng thanh toánlệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.",
-"528012_01": "Cấp điện mới từ lưới điện hạ áp; Cấp điện mới từ lưới điện trung áp; Thay đổi chủ thể HĐMBĐ; Thay đổi thông tin đã đăng ký; Thay đổi định mức sử dụng điện; Thay đổi vị trí thiết bị đo đếm; Thay đổi hình thức thanh toán tiền điện; Chấm dứt HĐMBĐ; Thay đổi công suất sử dụng điện/thay đổi loại công tơ 1 pha, 3 pha; Gia hạn HĐMBĐ; Thanh toán tiền điện",
-"528013_03": "Không quá 12 tháng 1 lần",
-"528014_02": "Thời điểm hoàn thành việc đối soát dữ liệu giữa các bên nhưng chậm nhất không quá ngày 7 của tháng sau tháng phát sinh việc cung cấp dịch vụ hoặc không quá 7 ngày kể từ ngày kết thúc kỳ quy ước.",
-"528015_01": "Cơ khí 1 pha",
-"528016_03": "Sản lượng điện sử dụng trung bình hàng tháng của quý trước, đơn vị thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo.",
-"528017_01": "Có sản lượng điện điện tiêu thụ bình quân tháng trong năm liền kề trước đó ≥ 1.000.000 kWh/tháng",
-"528018_01": "Thông tư 16/2023/TT-BCT ngày 31/8/2023",
-"528019_02": "Hệ thống ĐMTMN là hệ thống ĐMT có các tấm quang điện được lắp trên mái nhà của công trình xây dựng và có công suất không quá 1 MW, đấu nối trực tiếp hoặc gián tiếp vào lưới điện có cấp điện áp từ 35 kV trở xuống của Bên mua điện",
-"528020_03": "Không quá 20 năm",
-"529001_02": "SCL TSCĐ là công việc sửa chữa, thay thế phụ tùng, máy móc và thiết bị phù hợp với công nghệ hiện tại nhằm mục đích khôi phục hoặc duy trì khả năng đem lại lợi ích kinh tế của tài sản theo trạng thái tiêu chuẩn ban đầu.",
-"529002_01": "Trước 10/3/năm N.",
-"529003_02": "02 lần/năm.",
-"529004_01": "Trước 10/3/năm N.",
-"529005_03": "Trước ngày 10/9/năm N.",
-"529006_03": "Trong vòng 15 ngày kể từ khi EVNCPC giao kế hoạch SXKD.",
-"529007_01": "Trước ngày 10/5/năm N.",
-"529008_01": "Kế hoạch sản xuất kinh doanh và kế hoạch đầu tư xây dựng",
-"529009_02": "Thay 1 phần tuyến đường dây trần bị tưa, hỏng bằng dây bọc có cùng tiết diện và bổ sung 1 số cột chèn giữa tuyến đường dây do dây võng không đảm bảo khoảng cách an toàn theo quy định.",
-"529010_02": "03 năm.",
-"529011_03": "05 năm.",
-"529012_03": "Các chi phí thực tế có khả năng thực hiện được trong năm kế hoạch của tất cả các công trình có nhu cầu giải ngân trong năm.",
-"529013_04": "≥ 30 tỷ đồng",
-"529014_03": "Cả A và B đều đúng.",
-"529015_02": "19 đơn vị trực thuộc, 4 công ty con và 8 công ty liên kết.",
-"529016_02": "Ban Kế hoạch EVNCPC",
-"529017_02": "Sai",
-"529018_02": "Sai",
-"529019_04": "Cả A, B và C đều đúng",
-"529020_03": "Trước ngày 10/9/năm N.",
-"530002_01": "Dưới 	15 tỷ đồng",
-"530003_04": "Bao gồm cả 3 loại A, B, C và công việc khảo sát khác",
-"530004_04": "Các thủ tục A, B, C",
-"530005_04": "Tất cả các hành vi nêu tại A, B và C",
-"530006_01": "Chủ đầu tư thông qua hợp đồng",
-"530007_02": "Nhà thầu thi công xây dựng công trình",
-"530008_02": "Có, nhưng phải được người quyết định đầu tư cho phép",
-"530009_03": "Cá nhân giám sát thi công của nhà thầu thi công xây dựng",
-"530010_02": "Mọi công tác thi công đều phải giám sát",
-"530011_04": "Cả A",
-"530012_04": "Thiết kế bản vẽ thi công",
-"530013_03": "Nhà thầu thi công xây dựng",
-"530014_04": "Đơn vị quản lý sử dụng công trình",
-"530015_01": "Người quyết định đầu tư ",
-"530016_04": "Đơn vị tư vấn",
-"530017_04": "Cả A, B và C",
-"530018_02": "Khi tham gia hoạt động xây dựng",
-"530019_01": "Vốn đầu tư công, Vốn nhà nước ngoài đầu tư công, Vốn khác",
-"530020_04": "Cả A, B, C",
-"530021_02": "Các gói thầu thuộc dự án đầu tư của doanh nghiệp nhà nước theo quy định của Luật Doanh nghiệp và doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ",
-"530022_01": "Chủ đầu tư.",
-"530023_02": "Thực hiện đăng tải trên báo đấu thầu, hệ thống mạng đấu thầu quốc gia theo quy định.",
-"530024_03": "Cả 2 phương án A và B đều đúng.",
-"530025_03": "Bắt buộc phải đăng tải trên hệ thống mạng đấu thầu quốc gia, Báo đấu thầu.",
-"530026_02": "Gói thầu chỉ có duy nhất một nhà thầu thuộc địa phương trên địa bàn thực hiện gói thầu có khả năng đáp ứng yêu cầu để thực hiện gói thầu.",
-"530027_01": "Nhà thầu rút HSDT sau thời điểm đóng thầu và trong thời gian hồ sơ có hiệu lực.",
-"530028_03": "Cả hai đáp án A và B;",
-"530029_03": "03 ngày làm việc.",
-"530030_02": "Bên mời thầu phải tiến hành mở E-HSĐXKT và công khai biên bản mở E-HSĐXKT trên Hệ thống trong thời hạn không quá 02 giờ, kể từ thời điểm đóng thầu",
-"530031_01": "Là giá trị của gói thầu được phê duyệt trong kế hoạch lựa chọn nhà thầu.",
-"530032_02": "9 ngày.",
-"530033_03": "Từ 1,5% đến 3% giá gói thầu. Đối với gói thầu XL không quá 20 tỷ; MSHH, PTV không quá 10 tỷ có giá trị từ 1% đến 1,5% giá gói thầu.",
-"530034_02": "Ngày có thời điểm đóng thầu.",
-"530035_03": "Cả 2 đáp án A và B.",
-"530036_03": "Thông tư số 08/2022/TT-BKHĐT ngày 31/5/2022",
-"530037_01": "Giá được ghi trong quyết định phê duyệt kết quả lựa chọn nhà thầu.",
-"530039_03": "Thông tư số 08/2022/TT-BKHĐT ngày 31/5/2022",
-"530040_02": "Chủ đầu tư",
-"531001_03": "TTĐN kỹ thuật và thương mại.",
-"531002_04": "Cả 3 nội dung trên.",
-"531003_03": "03 chỉ tiêu.",
-"531004_02": "Thời gian sự cố nhỏ hơn hoặc bằng 1 phút.",
-"531005_02": "Thời gian sự cố lớn hơn 1 phút.",
-"531006_02": "03 cấp.",
-"531007_01": "SAIDI.",
-"531008_03": "SAIFI.",
-"531009_01": "MAIFI.",
-"531010_02": "Nhỏ hơn hoặc bằng 05 phút.",
-"531011_04": "CRM.",
-"531012_04": "Cả 3 nội dung trên.",
-"531013_04": "Cả 3 nội dung trên.",
-"531014_03": "Chưa có kết nối để giám sát, điều khiển.",
-"531015_04": "Cả 3 nội dung trên.",
-"531016_03": "6 thành phần.",
-"531017_02": "2020",
-"531018_03": "07 tiêu chí.",
-"531019_02": "2018",
-"531020_02": "Giám sát, điều khiển, Phân tích dữ liệu và Năng lượng xanh.",
-"532001_02": "Cung cấp điện với chất lượng và dịch vụ ngày càng tốt hơn, đảm bảo trách nhiệm với môi trường và cộng đồng.",
-"532002_06": " F.  Tất cả đáp án trên",
-"532003_02": "An toàn - Đoàn kết - Nhân văn - Trung thực - Minh bạch",
-"532004_03": "5",
-"532005_03": "Khách hàng là trung tâm của sự tồn tại và phát triển, con người là tài sản quý giá nhất, niềm tin được thắp sáng bằng các giá trị được tạo dựng và chia sẻ",
-"532006_03": "3",
-"532007_01": "EVN thắp sáng niềm tin",
-"532008_01": "Người lao động luôn là tài sản quý giá nhất",
-"532009_03": "“Trái đất của chúng ta chỉ có một, hãy bảo vệ ngôi nhà chung”",
-"532010_01": "“Khách hàng là trung tâm của sự tồn tại và phát triển bền vững của EVN”",
-"532011_02": "Là người mở đường, khơi nguồn sáng tạo, EVN tiên phong trong nghiên cứu và phát triển để tạo ra những đột phá về năng lượng cho đất nước. Đây cũng là tinh thần giúp chúng ta phát triển vượt bậc trong thời đại mới",
-"532012_01": "EVN là tập đoàn kinh tế hàng đầu trong lĩnh vực năng lượng tại Việt Nam và khu vực châu Á",
-"532013_05": "Tất cả đáp án trên",
-"532014_03": "5",
-"532015_01": "Nguyên tắc thứ nhất",
-"532016_05": "5",
-"532017_02": "Tận tâm",
-"532018_03": "38",
-"532019_05": "Tất cả đáp án trên",
-"532020_04": "Tất cả đáp án trên",
-"533001_03": "Tuyên truyền viên",
-"533002_05": "Cả 4 nội dung trên",
-"533003_02": "Năm 2007",
-"533004_04": "Tất cả phương tiện trên",
-"533005_01": "Có",
-"533006_04": "Cả 3 phương án trên",
-"533007_01": "“EVNCPC - Kết nối đồng nghiệp”.",
-"533008_01": " “Xây dựng Điện lực miền Trung Trách nhiệm- Chất lượng- Văn minh”",
-"533009_05": "Cả bốn nội dung trên",
-"533010_01": "Internet - Mạng xã hội",
-"533011_04": "Cả ba nội dung trên",
-"533012_03": "Ban Truyền thông",
-"533013_04": "5 nguyên tắc",
-"533014_01": "Không",
-"533015_05": "Cả 4 nội dung trên",
-"533016_03": "Quy chế quản trị trong Tập đoàn Điện lực Quốc gia Việt Nam",
-"533017_02": "Tổng giám đốc",
-"533018_06": " F.  Tất cả các nội dung trên",
-"533019_04": "6",
-"533020_07": " G.  Tất cả các nội dung trên",
-"534001_03": "127",
-"534002_01": "Hội đồng thành viên EVN.",
-"534003_02": "5",
-"534004_01": "Công ty Cổ phần Điện lực Khánh Hòa là đơn vị thành viên của EVNCPC.",
-"534005_02": "Trường Cao đẳng Điện lực miền Trung là đơn vị trực thuộc của EVNCPC.",
-"534006_02": "Công ty Tư vấn điện miền Trung là đơn vị trực thuộc của EVNCPC.",
-"534007_04": "Hoàn thành xuất sắc, tốt, hoàn thành, không hoàn thành.",
-"534008_04": "Cả 03 đáp án trên.",
-"534009_03": "Tổng giám đốc EVNCPC là Người đại diện theo pháp luật của EVNCPC và là thành viên Hội đồng thành viên EVNCPC.",
-"534010_01": "Hội đồng thành viên, Tổng giám đốc, các Phó Tổng giám đốc, Kế toán trưởng, Ban Kiểm soát và Kiểm soát viên và bộ máy giúp việc.",
-"534011_02": "Giám đốc, các Phó giám đốc, Kế toán trưởng và các phòng ban chức năng.",
-"534012_04": "Chủ tịch kiêm Giám đốc, các Phó giám đốc, Kế toán trưởng, kiểm soát viên và các phòng ban chức năng.",
-"534013_03": "Hội đồng quản trị, Tổng giám đốc/Giám đốc, các Phó Tổng giám đốc/Phó giám đốc, Kế toán trưởng, Ban kiểm soát và các phòng ban chức năng.",
-"534014_03": "Hội đồng thành viên, Tổng giám đốc, 04 Phó Tổng giám đốc, 03 Kiểm soát viên, Kế toán trưởng; 16 Ban chức năng; 19 đơn vị trực thuộc; 04 công ty con và 08 công ty liên kết.",
-"534015_03": "4",
-"534016_03": "Hiệu trưởng CEPC/Giám đốc đơn vị (đơn vị cấp III).",
-"534017_04": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III).",
-"534018_03": "Hiệu trưởng CEPC/Giám đốc đơn vị (đơn vị cấp III).",
-"534019_04": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III).",
-"534020_03": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III)."
+"Sheet1":[
+ {
+  "ID": "527001_04",
+  "Answer": "Cả A và B"
+ },
+ {
+  "ID": "527002_02",
+  "Answer": "Lợi nhuận của EVNCPC còn lại sau khi chia lãi cho các thành viên góp vốn liên kết theo quy định của hợp đồng (nếu có); bù đắp cho các khoản lỗ năm trước đã hết thời hạn được trừ vào lợi nhuận trước thuế chỉ được trích hai quỹ khen thưởng và phúc lợi."
+ },
+ {
+  "ID": "527003_01",
+  "Answer": "Sửa chữa tài sản cố định là việc duy tu, bảo dưỡng, thay thế sửa chữa những hư hỏng phát sinh trong quá trình hoạt động nhằm khôi phục lại năng lực hoạt động theo trạng thái hoạt động tiêu chuẩn ban đầu của tài sản cố định;"
+ },
+ {
+  "ID": "527004_02",
+  "Answer": "Oracle EBS"
+ },
+ {
+  "ID": "527005_02",
+  "Answer": "EVNCPC được huy động vốn để đầu tư vào các lĩnh vực chứng khoán, ngân hàng, bảo hiểm, quỹ đầu tư, bất động sản, tài chính."
+ },
+ {
+  "ID": "527006_04",
+  "Answer": "Cả 03 nội dung trên"
+ },
+ {
+  "ID": "527007_01",
+  "Answer": "Cuối kỳ kế toán tháng, quý, năm; EVNCPC phải lập các báo cáo tài chính hợp nhất, báo cáo thống kê của EVNCPC theo quy định của pháp luật và của EVN."
+ },
+ {
+  "ID": "527008_04",
+  "Answer": "Cả 03 câu trên"
+ },
+ {
+  "ID": "527009_04",
+  "Answer": "Câu A và C"
+ },
+ {
+  "ID": "527010_01",
+  "Answer": "Điều kiện trích lập dự phòng nợ phải thu khó đòi phải đảm bảo hai điều kiện sau <br\/>(1) Phải có chứng từ gốc chứng minh số tiền đối tượng nợ chưa trả cam kết nợ;<br\/>- Bản thanh lý hợp đồng (nếu có);<br\/>- Đối chiếu công nợ; Trường hợp không có đối chiếu công nợ thì phải có văn bản đề nghị đối chiếu xác nhận công nợ hoặc văn bản đòi nợ do doanh nghiệp đã gửi (có dấu bưu điện hoặc xác nhận của đơn vị chuyển phát);<br\/>- Bảng kê công nợ;<br\/>- Các chứng từ khác có liên quan (nếu có). <br\/>(2) Có đủ căn cứ xác định là khoản nợ phải thu khó đòi: <br\/>- Nợ phải thu đã quá thời hạn thanh toán từ 06 tháng trở lên (tính theo thời hạn trả nợ gốc ban đầu theo hợp đồng kinh tế khế ước vay nợ hoặc các cam kết nợ khác không tính đến thời gian gia hạn trả nợ giữa các bên) doanh nghiệp đã gửi đối chiếu xác nhận nợ hoặc đôn đốc thanh toán nhưng vẫn chưa thu hồi được nợ.<br\/>- Đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng đơn vị thu thập được các bằng chứng xác định tổ chức kinh tế đã phá sản đã mở thủ tục phá sản đã bỏ trốn khỏi địa điểm kinh doanh; đối tượng nợ đang bị các cơ quan pháp luật truy tố giam giữ xét xử hoặc đang thi hành án hoặc đang mắc bệnh hiểm nghèo (có xác nhận của bệnh viện) hoặc đã chết hoặc khoản nợ đã được doanh nghiệp yêu cầu thi hành án nhưng không thể thực hiện được do đối tượng nợ bỏ trốn khỏi nơi cư trú; khoản nợ đã được doanh nghiệp khởi kiện đòi nợ nhưng bị đình chỉ giải quyết vụ án thì doanh nghiệp tự dự kiến mức tổn thất không thu hồi được (tối đa bằng giá trị khoản nợ đang theo dõi trên sổ kế toán) để trích lập dự phòng."
+ },
+ {
+  "ID": "527011_04",
+  "Answer": "Đơn vị thực hiện gửi tiền có kỳ hạn và không kỳ hạn tại các tổ chức tín dụng có tính đảm bảo an toàn gồm các tổ chức tín dụng 100% vốn Nhà nước, các tổ chức tín dụng do Nhà nước nắm cổ phần chi phối. Đối với các tổ chức tín dụng còn lại (ngoài các tổ chức tín dụng nêu trên), đơn vị được duy trì tổng số dư tiền gửi vượt quá tổng số dư nợ tín dụng."
+ },
+ {
+  "ID": "527012_02",
+  "Answer": "Hình ảnh SCL phải được lưu hồ sơ (file màu trước và sau khi SCL hoàn thành)."
+ },
+ {
+  "ID": "527013_04",
+  "Answer": "Cả 03 câu trên"
+ },
+ {
+  "ID": "527014_04",
+  "Answer": "Tất cả các câu trên."
+ },
+ {
+  "ID": "527015_03",
+  "Answer": "Trường hợp NLĐ có đơn xin thôi việc, trong quá trình đơn vị giải quyết đơn xin thôi việc NLĐ hoặc TNNLĐ bị mắc bệnh hiểm nghèo thì không được hưởng mức hỗ trợ khám chữa bệnh hiểm nghèo theo Quy định này."
+ },
+ {
+  "ID": "527016_04",
+  "Answer": "Cả ba trường hợp trên"
+ },
+ {
+  "ID": "527017_04",
+  "Answer": "B và C"
+ },
+ {
+  "ID": "527018_03",
+  "Answer": "Lợi nhuận hoạt động sản xuất khác của đơn vị"
+ },
+ {
+  "ID": "527019_04",
+  "Answer": "Tất cả các câu trên"
+ },
+ {
+  "ID": "527020_04",
+  "Answer": "EVNCPC và các đơn vị trực thuộc EVNCPC"
+ },
+ {
+  "ID": "528001_01",
+  "Answer": "≥ 1.000.000 kWh\/năm. "
+ },
+ {
+  "ID": "528002_04",
+  "Answer": "12 tháng"
+ },
+ {
+  "ID": "528003_04",
+  "Answer": "Bộ Công thương ban hành"
+ },
+ {
+  "ID": "528004_04",
+  "Answer": "Cả A"
+ },
+ {
+  "ID": "528005_04",
+  "Answer": "A và B"
+ },
+ {
+  "ID": "528006_01",
+  "Answer": "Áp dụng giá bán lẻ điện sinh hoạt cho toàn bộ sản lượng điện năng đo đếm được tại công tơ đó"
+ },
+ {
+  "ID": "528007_02",
+  "Answer": "Bậc 3"
+ },
+ {
+  "ID": "528008_03",
+  "Answer": "4 cấp"
+ },
+ {
+  "ID": "528009_01",
+  "Answer": "Là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng"
+ },
+ {
+  "ID": "528010_02",
+  "Answer": "4 mức độ"
+ },
+ {
+  "ID": "528011_03",
+  "Answer": "Là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng thanh toánlệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng."
+ },
+ {
+  "ID": "528012_01",
+  "Answer": "Cấp điện mới từ lưới điện hạ áp; Cấp điện mới từ lưới điện trung áp; Thay đổi chủ thể HĐMBĐ; Thay đổi thông tin đã đăng ký; Thay đổi định mức sử dụng điện; Thay đổi vị trí thiết bị đo đếm; Thay đổi hình thức thanh toán tiền điện; Chấm dứt HĐMBĐ; Thay đổi công suất sử dụng điện\/thay đổi loại công tơ 1 pha, 3 pha; Gia hạn HĐMBĐ; Thanh toán tiền điện"
+ },
+ {
+  "ID": "528013_03",
+  "Answer": "Không quá 12 tháng 1 lần"
+ },
+ {
+  "ID": "528014_02",
+  "Answer": "Thời điểm hoàn thành việc đối soát dữ liệu giữa các bên nhưng chậm nhất không quá ngày 7 của tháng sau tháng phát sinh việc cung cấp dịch vụ hoặc không quá 7 ngày kể từ ngày kết thúc kỳ quy ước."
+ },
+ {
+  "ID": "528015_01",
+  "Answer": "Cơ khí 1 pha"
+ },
+ {
+  "ID": "528016_03",
+  "Answer": "Sản lượng điện sử dụng trung bình hàng tháng của quý trước, đơn vị thỏa thuận với khách hàng thực hiện điều chỉnh số kỳ GCS theo quy định vào đầu quý tiếp theo."
+ },
+ {
+  "ID": "528017_01",
+  "Answer": "Có sản lượng điện điện tiêu thụ bình quân tháng trong năm liền kề trước đó ≥ 1.000.000 kWh\/tháng"
+ },
+ {
+  "ID": "528018_01",
+  "Answer": "Thông tư 16\/2023\/TT-BCT ngày 31\/8\/2023"
+ },
+ {
+  "ID": "528019_02",
+  "Answer": "Hệ thống ĐMTMN là hệ thống ĐMT có các tấm quang điện được lắp trên mái nhà của công trình xây dựng và có công suất không quá 1 MW, đấu nối trực tiếp hoặc gián tiếp vào lưới điện có cấp điện áp từ 35 kV trở xuống của Bên mua điện"
+ },
+ {
+  "ID": "528020_03",
+  "Answer": "Không quá 20 năm"
+ },
+ {
+  "ID": "529001_02",
+  "Answer": "SCL TSCĐ là công việc sửa chữa, thay thế phụ tùng, máy móc và thiết bị phù hợp với công nghệ hiện tại nhằm mục đích khôi phục hoặc duy trì khả năng đem lại lợi ích kinh tế của tài sản theo trạng thái tiêu chuẩn ban đầu."
+ },
+ {
+  "ID": "529002_01",
+  "Answer": "Trước 10\/3\/năm N."
+ },
+ {
+  "ID": "529003_02",
+  "Answer": "02 lần\/năm."
+ },
+ {
+  "ID": "529004_01",
+  "Answer": "Trước 10\/3\/năm N."
+ },
+ {
+  "ID": "529005_03",
+  "Answer": "Trước ngày 10\/9\/năm N."
+ },
+ {
+  "ID": "529006_03",
+  "Answer": "Trong vòng 15 ngày kể từ khi EVNCPC giao kế hoạch SXKD."
+ },
+ {
+  "ID": "529007_01",
+  "Answer": "Trước ngày 10\/5\/năm N."
+ },
+ {
+  "ID": "529008_01",
+  "Answer": "Kế hoạch sản xuất kinh doanh và kế hoạch đầu tư xây dựng"
+ },
+ {
+  "ID": "529009_02",
+  "Answer": "Thay 1 phần tuyến đường dây trần bị tưa, hỏng bằng dây bọc có cùng tiết diện và bổ sung 1 số cột chèn giữa tuyến đường dây do dây võng không đảm bảo khoảng cách an toàn theo quy định."
+ },
+ {
+  "ID": "529010_02",
+  "Answer": "03 năm."
+ },
+ {
+  "ID": "529011_03",
+  "Answer": "05 năm."
+ },
+ {
+  "ID": "529012_03",
+  "Answer": "Các chi phí thực tế có khả năng thực hiện được trong năm kế hoạch của tất cả các công trình có nhu cầu giải ngân trong năm."
+ },
+ {
+  "ID": "529013_04",
+  "Answer": "≥ 30 tỷ đồng"
+ },
+ {
+  "ID": "529014_03",
+  "Answer": "Cả A và B đều đúng."
+ },
+ {
+  "ID": "529015_02",
+  "Answer": "19 đơn vị trực thuộc, 4 công ty con và 8 công ty liên kết."
+ },
+ {
+  "ID": "529016_02",
+  "Answer": "Ban Kế hoạch EVNCPC"
+ },
+ {
+  "ID": "529017_02",
+  "Answer": "Sai"
+ },
+ {
+  "ID": "529018_02",
+  "Answer": "Sai"
+ },
+ {
+  "ID": "529019_04",
+  "Answer": "Cả A, B và C đều đúng"
+ },
+ {
+  "ID": "529020_03",
+  "Answer": "Trước ngày 10\/9\/năm N."
+ },
+ {
+  "ID": "530002_01",
+  "Answer": "Dưới \t15 tỷ đồng"
+ },
+ {
+  "ID": "530003_04",
+  "Answer": "Bao gồm cả 3 loại A, B, C và công việc khảo sát khác"
+ },
+ {
+  "ID": "530004_04",
+  "Answer": "Các thủ tục A, B, C"
+ },
+ {
+  "ID": "530005_04",
+  "Answer": "Tất cả các hành vi nêu tại A, B và C"
+ },
+ {
+  "ID": "530006_01",
+  "Answer": "Chủ đầu tư thông qua hợp đồng"
+ },
+ {
+  "ID": "530007_02",
+  "Answer": "Nhà thầu thi công xây dựng công trình"
+ },
+ {
+  "ID": "530008_02",
+  "Answer": "Có, nhưng phải được người quyết định đầu tư cho phép"
+ },
+ {
+  "ID": "530009_03",
+  "Answer": "Cá nhân giám sát thi công của nhà thầu thi công xây dựng"
+ },
+ {
+  "ID": "530010_02",
+  "Answer": "Mọi công tác thi công đều phải giám sát"
+ },
+ {
+  "ID": "530011_04",
+  "Answer": "Cả A"
+ },
+ {
+  "ID": "530012_04",
+  "Answer": "Thiết kế bản vẽ thi công"
+ },
+ {
+  "ID": "530013_03",
+  "Answer": "Nhà thầu thi công xây dựng"
+ },
+ {
+  "ID": "530014_04",
+  "Answer": "Đơn vị quản lý sử dụng công trình"
+ },
+ {
+  "ID": "530015_01",
+  "Answer": "Người quyết định đầu tư "
+ },
+ {
+  "ID": "530016_04",
+  "Answer": "Đơn vị tư vấn"
+ },
+ {
+  "ID": "530017_04",
+  "Answer": "Cả A, B và C"
+ },
+ {
+  "ID": "530018_02",
+  "Answer": "Khi tham gia hoạt động xây dựng"
+ },
+ {
+  "ID": "530019_01",
+  "Answer": "Vốn đầu tư công, Vốn nhà nước ngoài đầu tư công, Vốn khác"
+ },
+ {
+  "ID": "530020_04",
+  "Answer": "Cả A, B, C"
+ },
+ {
+  "ID": "530021_02",
+  "Answer": "Các gói thầu thuộc dự án đầu tư của doanh nghiệp nhà nước theo quy định của Luật Doanh nghiệp và doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ"
+ },
+ {
+  "ID": "530022_01",
+  "Answer": "Chủ đầu tư."
+ },
+ {
+  "ID": "530023_02",
+  "Answer": "Thực hiện đăng tải trên báo đấu thầu, hệ thống mạng đấu thầu quốc gia theo quy định."
+ },
+ {
+  "ID": "530024_03",
+  "Answer": "Cả 2 phương án A và B đều đúng."
+ },
+ {
+  "ID": "530025_03",
+  "Answer": "Bắt buộc phải đăng tải trên hệ thống mạng đấu thầu quốc gia, Báo đấu thầu."
+ },
+ {
+  "ID": "530026_02",
+  "Answer": "Gói thầu chỉ có duy nhất một nhà thầu thuộc địa phương trên địa bàn thực hiện gói thầu có khả năng đáp ứng yêu cầu để thực hiện gói thầu."
+ },
+ {
+  "ID": "530027_01",
+  "Answer": "Nhà thầu rút HSDT sau thời điểm đóng thầu và trong thời gian hồ sơ có hiệu lực."
+ },
+ {
+  "ID": "530028_03",
+  "Answer": "Cả hai đáp án A và B;"
+ },
+ {
+  "ID": "530029_03",
+  "Answer": "03 ngày làm việc."
+ },
+ {
+  "ID": "530030_02",
+  "Answer": "Bên mời thầu phải tiến hành mở E-HSĐXKT và công khai biên bản mở E-HSĐXKT trên Hệ thống trong thời hạn không quá 02 giờ, kể từ thời điểm đóng thầu"
+ },
+ {
+  "ID": "530031_01",
+  "Answer": "Là giá trị của gói thầu được phê duyệt trong kế hoạch lựa chọn nhà thầu."
+ },
+ {
+  "ID": "530032_02",
+  "Answer": "9 ngày."
+ },
+ {
+  "ID": "530033_03",
+  "Answer": "Từ 1,5% đến 3% giá gói thầu. Đối với gói thầu XL không quá 20 tỷ; MSHH, PTV không quá 10 tỷ có giá trị từ 1% đến 1,5% giá gói thầu."
+ },
+ {
+  "ID": "530034_02",
+  "Answer": "Ngày có thời điểm đóng thầu."
+ },
+ {
+  "ID": "530035_03",
+  "Answer": "Cả 2 đáp án A và B."
+ },
+ {
+  "ID": "530036_03",
+  "Answer": "Thông tư số 08\/2022\/TT-BKHĐT ngày 31\/5\/2022"
+ },
+ {
+  "ID": "530037_01",
+  "Answer": "Giá được ghi trong quyết định phê duyệt kết quả lựa chọn nhà thầu."
+ },
+ {
+  "ID": "530039_03",
+  "Answer": "Thông tư số 08\/2022\/TT-BKHĐT ngày 31\/5\/2022"
+ },
+ {
+  "ID": "530040_02",
+  "Answer": "Chủ đầu tư"
+ },
+ {
+  "ID": "531001_03",
+  "Answer": "TTĐN kỹ thuật và thương mại."
+ },
+ {
+  "ID": "531002_04",
+  "Answer": "Cả 3 nội dung trên."
+ },
+ {
+  "ID": "531003_03",
+  "Answer": "03 chỉ tiêu."
+ },
+ {
+  "ID": "531004_02",
+  "Answer": "Thời gian sự cố nhỏ hơn hoặc bằng 1 phút."
+ },
+ {
+  "ID": "531005_02",
+  "Answer": "Thời gian sự cố lớn hơn 1 phút."
+ },
+ {
+  "ID": "531006_02",
+  "Answer": "03 cấp."
+ },
+ {
+  "ID": "531007_01",
+  "Answer": "SAIDI."
+ },
+ {
+  "ID": "531008_03",
+  "Answer": "SAIFI."
+ },
+ {
+  "ID": "531009_01",
+  "Answer": "MAIFI."
+ },
+ {
+  "ID": "531010_02",
+  "Answer": "Nhỏ hơn hoặc bằng 05 phút."
+ },
+ {
+  "ID": "531011_04",
+  "Answer": "CRM."
+ },
+ {
+  "ID": "531012_04",
+  "Answer": "Cả 3 nội dung trên."
+ },
+ {
+  "ID": "531013_04",
+  "Answer": "Cả 3 nội dung trên."
+ },
+ {
+  "ID": "531014_03",
+  "Answer": "Chưa có kết nối để giám sát, điều khiển."
+ },
+ {
+  "ID": "531015_04",
+  "Answer": "Cả 3 nội dung trên."
+ },
+ {
+  "ID": "531016_03",
+  "Answer": "6 thành phần."
+ },
+ {
+  "ID": "531017_02",
+  "Answer": 2020
+ },
+ {
+  "ID": "531018_03",
+  "Answer": "07 tiêu chí."
+ },
+ {
+  "ID": "531019_02",
+  "Answer": 2018
+ },
+ {
+  "ID": "531020_02",
+  "Answer": "Giám sát, điều khiển, Phân tích dữ liệu và Năng lượng xanh."
+ },
+ {
+  "ID": "532001_02",
+  "Answer": "Cung cấp điện với chất lượng và dịch vụ ngày càng tốt hơn, đảm bảo trách nhiệm với môi trường và cộng đồng."
+ },
+ {
+  "ID": "532002_06",
+  "Answer": " F.  Tất cả đáp án trên"
+ },
+ {
+  "ID": "532003_02",
+  "Answer": "An toàn - Đoàn kết - Nhân văn - Trung thực - Minh bạch"
+ },
+ {
+  "ID": "532004_03",
+  "Answer": 5
+ },
+ {
+  "ID": "532005_03",
+  "Answer": "Khách hàng là trung tâm của sự tồn tại và phát triển, con người là tài sản quý giá nhất, niềm tin được thắp sáng bằng các giá trị được tạo dựng và chia sẻ"
+ },
+ {
+  "ID": "532006_03",
+  "Answer": 3
+ },
+ {
+  "ID": "532007_01",
+  "Answer": "EVN thắp sáng niềm tin"
+ },
+ {
+  "ID": "532008_01",
+  "Answer": "Người lao động luôn là tài sản quý giá nhất"
+ },
+ {
+  "ID": "532009_03",
+  "Answer": "“Trái đất của chúng ta chỉ có một, hãy bảo vệ ngôi nhà chung”"
+ },
+ {
+  "ID": "532010_01",
+  "Answer": "“Khách hàng là trung tâm của sự tồn tại và phát triển bền vững của EVN”"
+ },
+ {
+  "ID": "532011_02",
+  "Answer": "Là người mở đường, khơi nguồn sáng tạo, EVN tiên phong trong nghiên cứu và phát triển để tạo ra những đột phá về năng lượng cho đất nước. Đây cũng là tinh thần giúp chúng ta phát triển vượt bậc trong thời đại mới"
+ },
+ {
+  "ID": "532012_01",
+  "Answer": "EVN là tập đoàn kinh tế hàng đầu trong lĩnh vực năng lượng tại Việt Nam và khu vực châu Á"
+ },
+ {
+  "ID": "532013_05",
+  "Answer": "Tất cả đáp án trên"
+ },
+ {
+  "ID": "532014_03",
+  "Answer": 5
+ },
+ {
+  "ID": "532015_01",
+  "Answer": "Nguyên tắc thứ nhất"
+ },
+ {
+  "ID": "532016_05",
+  "Answer": 5
+ },
+ {
+  "ID": "532017_02",
+  "Answer": "Tận tâm"
+ },
+ {
+  "ID": "532018_03",
+  "Answer": 38
+ },
+ {
+  "ID": "532019_05",
+  "Answer": "Tất cả đáp án trên"
+ },
+ {
+  "ID": "532020_04",
+  "Answer": "Tất cả đáp án trên"
+ },
+ {
+  "ID": "533001_03",
+  "Answer": "Tuyên truyền viên"
+ },
+ {
+  "ID": "533002_05",
+  "Answer": "Cả 4 nội dung trên"
+ },
+ {
+  "ID": "533003_02",
+  "Answer": "Năm 2007"
+ },
+ {
+  "ID": "533004_04",
+  "Answer": "Tất cả phương tiện trên"
+ },
+ {
+  "ID": "533005_01",
+  "Answer": "Có"
+ },
+ {
+  "ID": "533006_04",
+  "Answer": "Cả 3 phương án trên"
+ },
+ {
+  "ID": "533007_01",
+  "Answer": "“EVNCPC - Kết nối đồng nghiệp”."
+ },
+ {
+  "ID": "533008_01",
+  "Answer": " “Xây dựng Điện lực miền Trung Trách nhiệm- Chất lượng- Văn minh”"
+ },
+ {
+  "ID": "533009_05",
+  "Answer": "Cả bốn nội dung trên"
+ },
+ {
+  "ID": "533010_01",
+  "Answer": "Internet - Mạng xã hội"
+ },
+ {
+  "ID": "533011_04",
+  "Answer": "Cả ba nội dung trên"
+ },
+ {
+  "ID": "533012_03",
+  "Answer": "Ban Truyền thông"
+ },
+ {
+  "ID": "533013_04",
+  "Answer": "5 nguyên tắc"
+ },
+ {
+  "ID": "533014_01",
+  "Answer": "Không"
+ },
+ {
+  "ID": "533015_05",
+  "Answer": "Cả 4 nội dung trên"
+ },
+ {
+  "ID": "533016_03",
+  "Answer": "Quy chế quản trị trong Tập đoàn Điện lực Quốc gia Việt Nam"
+ },
+ {
+  "ID": "533017_02",
+  "Answer": "Tổng giám đốc"
+ },
+ {
+  "ID": "533018_06",
+  "Answer": " F.  Tất cả các nội dung trên"
+ },
+ {
+  "ID": "533019_04",
+  "Answer": 6
+ },
+ {
+  "ID": "533020_07",
+  "Answer": " G.  Tất cả các nội dung trên"
+ },
+ {
+  "ID": "534001_03",
+  "Answer": 127
+ },
+ {
+  "ID": "534002_01",
+  "Answer": "Hội đồng thành viên EVN."
+ },
+ {
+  "ID": "534003_02",
+  "Answer": 5
+ },
+ {
+  "ID": "534004_01",
+  "Answer": "Công ty Cổ phần Điện lực Khánh Hòa là đơn vị thành viên của EVNCPC."
+ },
+ {
+  "ID": "534005_02",
+  "Answer": "Trường Cao đẳng Điện lực miền Trung là đơn vị trực thuộc của EVNCPC."
+ },
+ {
+  "ID": "534006_02",
+  "Answer": "Công ty Tư vấn điện miền Trung là đơn vị trực thuộc của EVNCPC."
+ },
+ {
+  "ID": "534007_04",
+  "Answer": "Hoàn thành xuất sắc, tốt, hoàn thành, không hoàn thành."
+ },
+ {
+  "ID": "534008_04",
+  "Answer": "Cả 03 đáp án trên."
+ },
+ {
+  "ID": "534009_03",
+  "Answer": "Tổng giám đốc EVNCPC là Người đại diện theo pháp luật của EVNCPC và là thành viên Hội đồng thành viên EVNCPC."
+ },
+ {
+  "ID": "534010_01",
+  "Answer": "Hội đồng thành viên, Tổng giám đốc, các Phó Tổng giám đốc, Kế toán trưởng, Ban Kiểm soát và Kiểm soát viên và bộ máy giúp việc."
+ },
+ {
+  "ID": "534011_02",
+  "Answer": "Giám đốc, các Phó giám đốc, Kế toán trưởng và các phòng ban chức năng."
+ },
+ {
+  "ID": "534012_04",
+  "Answer": "Chủ tịch kiêm Giám đốc, các Phó giám đốc, Kế toán trưởng, kiểm soát viên và các phòng ban chức năng."
+ },
+ {
+  "ID": "534013_03",
+  "Answer": "Hội đồng quản trị, Tổng giám đốc\/Giám đốc, các Phó Tổng giám đốc\/Phó giám đốc, Kế toán trưởng, Ban kiểm soát và các phòng ban chức năng."
+ },
+ {
+  "ID": "534014_03",
+  "Answer": "Hội đồng thành viên, Tổng giám đốc, 04 Phó Tổng giám đốc, 03 Kiểm soát viên, Kế toán trưởng; 16 Ban chức năng; 19 đơn vị trực thuộc; 04 công ty con và 08 công ty liên kết."
+ },
+ {
+  "ID": "534015_03",
+  "Answer": 4
+ },
+ {
+  "ID": "534016_03",
+  "Answer": "Hiệu trưởng CEPC\/Giám đốc đơn vị (đơn vị cấp III)."
+ },
+ {
+  "ID": "534017_04",
+  "Answer": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III)."
+ },
+ {
+  "ID": "534018_03",
+  "Answer": "Hiệu trưởng CEPC\/Giám đốc đơn vị (đơn vị cấp III)."
+ },
+ {
+  "ID": "534019_04",
+  "Answer": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III)."
+ },
+ {
+  "ID": "534020_03",
+  "Answer": "Chủ tịch kiêm Giám đốc đơn vị (đơn vị cấp III)."
+ }
+]
 }
